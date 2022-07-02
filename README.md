@@ -1,5 +1,5 @@
 # Coursera_Capstone
-This is for capstone projects for IBM Data Science Professional Certification on Coursera
+This is for capstone projects for IBM Data Analyst Professional Certification on Coursera
 
 
 Using Data Analytics skills and techniques that I have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. I assumed the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
